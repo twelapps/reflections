@@ -1,0 +1,3 @@
+Lesson 3 reflections
+1. Initial push failed, due to public key of MacBook not being copied to GitHub
+2. In commit process, vim editor appears. Add some text; select "Esc", and enter :w (saving file) and :q (quitting editor).
